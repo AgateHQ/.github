@@ -1,6 +1,6 @@
 # Axate 
 
-## Hi there 👋 , check out more on axate.com
+## Hi there 👋 , check out more on https://axate.com
 
 <!--
 
