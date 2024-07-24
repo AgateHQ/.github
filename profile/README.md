@@ -4,7 +4,9 @@
 
 ## A short introduction 🙋‍♀️ 
 
-Axate provides a flexible payment solution for digital publishers, allowing them to monetize casual readers who aren't interested in subscriptions. It offers a pay-as-you-go model that enhances customer acquisition, retention, and revenue by enabling readers to pay for individual articles. This approach helps publishers reach a larger audience, increase engagement, and sustain long-term consumer relationships. Axate aims to support the journalism industry by making content accessible to a broader range of readers while providing publishers with scalable revenue options.
+Axate provides a flexible payment solution for digital publishers, allowing them to monetize casual readers who aren't interested in subscriptions. It offers a pay-as-you-go model that enhances customer acquisition, retention, and revenue by enabling readers to pay for individual articles. 
+
+This approach helps publishers reach a larger audience, increase engagement, and sustain long-term consumer relationships. Axate aims to support the journalism industry by making content accessible to a broader range of readers while providing publishers with scalable revenue options.
 
 
 
