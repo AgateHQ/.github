@@ -2,11 +2,19 @@
 
 ## Hi there 👋 , check out more on https://axate.com
 
+## A short introduction 🙋‍♀️ 
+
+Axate provides a flexible payment solution for digital publishers, allowing them to monetize casual readers who aren't interested in subscriptions. It offers a pay-as-you-go model that enhances customer acquisition, retention, and revenue by enabling readers to pay for individual articles. This approach helps publishers reach a larger audience, increase engagement, and sustain long-term consumer relationships. Axate aims to support the journalism industry by making content accessible to a broader range of readers while providing publishers with scalable revenue options.
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
