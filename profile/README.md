@@ -25,4 +25,4 @@ This approach helps publishers reach a larger audience, increase engagement, and
 
 ## Fun facts 🍿 - what does your team eat for breakfast?
 
-Only oats or eggs, sometimes cereal
+Eggs, up to 35 a day
